@@ -4,6 +4,8 @@ Go 2012
 London 2012 Olympic App (iOS/Android) built in HTML5/JS using PhoneGap. <br/>
 [Visit Website](http://www.nicmulvaney.com/go2012app/)
 
+![alt text](screenshots/go2012.png "Go 2012")
+
 #### About
 
 This app was designed and built in 2012 and available for free on iOS (iPhone/iPad) and Android. The code is released as reference material for you to have a dig around. The world of Javascript is moving so fast, if I did this again I would do things very differently e.g...
@@ -29,3 +31,5 @@ All included
 #### Running this project
 
 This is designed to run in PhoneGap but also can be ran in the browser (Chrome) give or take a few PhoneGap warnings. Nothing needs to be compiled. To preview at mobile sizes you can emulate the device [viewport](https://developers.google.com/chrome-developer-tools/docs/mobile-emulation#emulate-device-viewports) in the browser.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
