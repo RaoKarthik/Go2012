@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.mulhoon.guide2012"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>LDN 2012</name>
+
+    <description>
+        
+    </description>
+
+    <author href="https://allofus.com" email="nic@allofus.com">
+        Nic Mulvaney
+    </author>
+<!-- 	<icon src="icon.png" gap:role="default" /> -->
+
+	<feature name="http://api.phonegap.com/1.0/geolocation"/>
+	<feature name="http://api.phonegap.com/1.0/network"/>
+<!-- 	<feature name="http://plugins.phonegap.com/ChildBrowser/2.0.1" /> -->
+	
+
+	<preference name="orientation" value="default" />
+	<preference name="ios-statusbarstyle" value="black-opaque" />
+	<preference name="prerendered-icon" value="true" />
+	
+	<icon src="images/icon-72.png" gap:platform="ios" width="72" height="72" />
+	<icon src="images/icon.png" width="114" height="114" />
+<!-- 	<preference name="autohidesplashscreen" value="false" /> -->
+	
+	<gap:splash src="images/splash_small.png" width="320" height="480" />
+	<gap:splash src="images/splash.png" width="640" height="960" />
+	
+</widget>
