@@ -33,3 +33,6 @@ All included
 This is designed to run in PhoneGap but also can be ran in the browser (Chrome) give or take a few PhoneGap warnings. Nothing needs to be compiled. To preview at mobile sizes you can emulate the device [viewport](https://developers.google.com/chrome-developer-tools/docs/mobile-emulation#emulate-device-viewports) in the browser.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mulhoon/go2012/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
